@@ -36,7 +36,7 @@ def test_utest_registration(driver):
     reg.fill_basic_info(
         first="Juan",
         last="Tester",
-        email="juan.test123457@example.com",
+        email="juan.test123459@example.com",
         birth_month="May",
         birth_day="15",
         birth_year="1992"
